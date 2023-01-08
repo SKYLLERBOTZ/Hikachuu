@@ -5,7 +5,7 @@
 -----------------------------------------------------
 
 <p align="center">
-<img src="https://github.com/zeeone-ofc/Alphabot-Md/blob/v7.1/image/lol_1.jpg" alt="HIKACHUU :3" width="100"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRobRJM3JeBR112v3Rw_w_rlajRWJ6cIlHosw&usqp=CAU" alt="HIKACHUU :3" width="100"/>
 
 
 </p>
