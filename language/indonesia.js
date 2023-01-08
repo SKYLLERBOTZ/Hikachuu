@@ -278,31 +278,31 @@ exports.OffNsfw = () => {
     return `Fitur nsfw belum di aktifkan`
 }
 exports.CoverBanLol = (prefix, command) => {
-    return `Contoh: ${prefix + command} nama|heroes\nUsage: ${prefix + command} zeeone|jinx7`
+    return `Contoh: ${prefix + command} nama|heroes\nUsage: ${prefix + command} hikachu|jinx7`
 }
 exports.coverbannerlol = (style) => {
     return `*Heroes Yg Kamu Masukkan Salah*\n\n_Berikut list heroes yg benar, Total_ *${style}* _heroes_\n\n`
 }
 exports.pubglogomaker = (prefix, command) => {
-    return `Contoh: ${prefix + command} nama|style\nUsage: ${prefix + command} zeeone|women`
+    return `Contoh: ${prefix + command} nama|style\nUsage: ${prefix + command} hikachu|women`
 }
 exports.pubglogomaker_ = (style) => {
     return `*Style Yg Kamu Masukkan Salah*\n\n_Berikut list style yg benar, Total_ *${style}* _style_\n\n`
 }
 exports.colorfulpubg = (prefix, command) => {
-    return `Contoh: ${prefix + command} nama|color\nUsage: ${prefix + command} zeeone|gold`
+    return `Contoh: ${prefix + command} nama|color\nUsage: ${prefix + command} hikachu|gold`
 }
 exports.colorfulpubg_ = (style) => {
     return `*Color Yg Kamu Masukkan Salah*\n\n_Berikut list color yg benar, Total_ *${style}* _color_\n\n`
 }
 exports.astronotspace = (prefix, command) => {
-    return `Contoh: ${prefix + command} nama|style\nUsage: ${prefix + command} zeeone|anubis`
+    return `Contoh: ${prefix + command} nama|style\nUsage: ${prefix + command} hikachu|anubis`
 }
 exports.wallpaperaov = (prefix, command) => {
-    return `Contoh: ${prefix + command} nama|heroes\nUsage: ${prefix + command} zeeone|allain`
+    return `Contoh: ${prefix + command} nama|heroes\nUsage: ${prefix + command} hikachu|allain`
 }
 exports.maketeamlogo = (style, style2, prefix, command) => {
-    return `Contoh: ${prefix + command} nama|${style}\nUsage: ${prefix + command} zeeone|${style2}`
+    return `Contoh: ${prefix + command} nama|${style}\nUsage: ${prefix + command} hikachu|${style2}`
 }
 
 exports.MaketeamlogoT = (a, b, c, d, e, f, g, h) => {
@@ -412,7 +412,7 @@ exports.TbJail = (prefix, command) => {
     return `Kirim/Reply Foto/Sticker Dengan Caption ${prefix + command}`
 }
 exports.TbRepo = (prefix, command) => {
-    return `Kirim perintah ${prefix + command} *user* *repo* *branch*\n\nExp. ${prefix + command} *zeeone-ofc* *Alphabot-Md* *v12*`
+    return `Kirim perintah ${prefix + command} *user* *repo* *branch*\n\nExp. ${prefix + command} *SKYLLERBOTZ* *Hikachuu* *v12*`
 }
 exports.StalkIg = () => {
     return `Masukkan username`
@@ -512,7 +512,7 @@ exports.NoAudRep = (prefix, command) => {
 }
 
 exports.NoTagBan = (prefix, command) => {
-    return `Contoh penggunaan :\n${prefix + command} 62938828728992 \natau\n${prefix + command} @tagmember`
+    return `Contoh penggunaan :\n${prefix + command} 6285882135288 \natau\n${prefix + command} @tagmember`
 }
 exports.getBan = (a) => {
     return `⚠️ Mohon maaf nomor kamu telah di banned oleh owner\n\nOwner 👇\nwa.me/${a}`
@@ -1052,7 +1052,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ !twitter link
 
 ╭─❒ 「 Primbon 」
-│○ !nomorhoki 887435047326
+│○ !nomorhoki 85882135288
 │○ !artimimpi [query]
 │○ !artinama [query]
 │○ !ramaljodoh
@@ -1720,6 +1720,8 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╭─❒ 「 TqTo 」 
 │○ My God
 │○ My Parents
+│○ Hikachuu :3
+│○ Fadilarwt
 │○ Fatih A.
 │○ Ferdi
 │○ DikaArdnt
@@ -1744,7 +1746,7 @@ exports.rules = (prefix) => {
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
 
 🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini bisa kalian dapatkan di YouTube ZEEONE OFC
+➡️ Script ini bisa kalian dapatkan di Ig : sky4you
 
 🗯️ Boleh saya menambah ke grup?
 ➡️ Untuk itu tergantung dari owner bot sendiri
@@ -1777,6 +1779,7 @@ return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
 Recode : https://s.id/YouTube-Zeeoneofc
+Recode2 : https://instagram.com/sky4you
 `
 }
 exports.tos = (ownernomer) => {
@@ -2442,6 +2445,8 @@ exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
 │○ My God
 │○ My Parents
+│○ Hikachuu :3
+│○ Fadilarwt
 │○ Fatih A.
 │○ Ferdi
 │○ DikaArdnt
@@ -2456,7 +2461,7 @@ exports.tqto = () =>{
 
 exports.primbonmenu = (prefix) =>{
 	return`╭─❒ 「 Primbon 」
-│○ !nomorhoki 887435047326
+│○ !nomorhoki 85882135288
 │○ !artimimpi [query]
 │○ !artinama [query]
 │○ !ramaljodoh

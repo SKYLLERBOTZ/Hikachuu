@@ -275,31 +275,31 @@ exports.OffNsfw = () => {
     return `Fitur nsfw belum di aktifkan`
 }
 exports.CoverBanLol = (prefix, command) => {
-    return `Ejemplo: ${prefix + command} nombre|heroes\nEjemplo: ${prefix + command} zeeone|jinx7`
+    return `Ejemplo: ${prefix + command} nombre|heroes\nEjemplo: ${prefix + command} hikachu|jinx7`
 }
 exports.coverbannerlol = (style) => {
     return `*Los héroes que ingresaste están equivocados*\n\n_Aquí hay una lista de los héroes correctos, Total_ *${style}* _heroes_\n\n`
 }
 exports.pubglogomaker = (prefix, command) => {
-    return `Ejemplo: ${prefix + command} nombre|style\n Ejemplo: ${prefix + command} zeeone|women`
+    return `Ejemplo: ${prefix + command} nombre|style\n Ejemplo: ${prefix + command} hikachu|women`
 }
 exports.pubglogomaker_ = (style) => {
     return `*El estilo que ingresaste es incorrecto*\n\n_Aquí hay una lista de los estilos correctos, Total_ *${style}* _style_\n\n`
 }
 exports.colorfulpubg = (prefix, command) => {
-    return `Ejemplo: ${prefix + command} nombre|color\nEjemplo: ${prefix + command} zeeone|gold`
+    return `Ejemplo: ${prefix + command} nombre|color\nEjemplo: ${prefix + command} hikachu|gold`
 }
 exports.colorfulpubg_ = (style) => {
     return `*El color que ingresaste es incorrecto*\n\n_Aquí hay una lista de los colores correctos, Total_ *${style}* _color_\n\n`
 }
 exports.astronotspace = (prefix, command) => {
-    return `Ejemplo: ${prefix + command} nombre|style\nEjemplos de uso: ${prefix + command} zeeone|anubis`
+    return `Ejemplo: ${prefix + command} nombre|style\nEjemplos de uso: ${prefix + command} hikachu|anubis`
 }
 exports.wallpaperaov = (prefix, command) => {
-    return `Ejemplo: ${prefix + command} nombre|heroes\nEjemplos de uso: ${prefix + command} zeeone|allain`
+    return `Ejemplo: ${prefix + command} nombre|heroes\nEjemplos de uso: ${prefix + command} hikachu|allain`
 }
 exports.maketeamlogo = (style, style2, prefix, command) => {
-    return `Ejemplo: ${prefix + command} nombre|${style}\nEjemplos de uso: ${prefix + command} zeeone|${style2}`
+    return `Ejemplo: ${prefix + command} nombre|${style}\nEjemplos de uso: ${prefix + command} hikachu|${style2}`
 }
 
 exports.MaketeamlogoT = (a, b, c, d, e, f, g, h) => {
@@ -409,7 +409,7 @@ exports.TbJail = (prefix, command) => {
     return `Enviar/responder foto/pegatina con leyenda ${prefix + command}`
 }
 exports.TbRepo = (prefix, command) => {
-    return `Enviar comando ${prefix + command} *user* *repo* *branch*\n\nEjemplos de uso: ${prefix + command} *zeeone-ofc* *Alphabot-Md* *v12*`
+    return `Enviar comando ${prefix + command} *user* *repo* *branch*\n\nEjemplos de uso: ${prefix + command} *SKYLLERBOTZ* *AHikachuu* *v12*`
 }
 exports.StalkIg = () => {
     return `Introduzca su nombre de usuario`
@@ -719,7 +719,7 @@ yo ${botname}, este bot es Whatsapp Multi-Device Beta.
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu Hikachu-Md :*
 
 ╭─❒ 「 Bot Info 」 
 │○ !owner
@@ -1051,7 +1051,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ !twitter link
 
 ╭─❒ 「 Primbon 」
-│○ !nomorhoki 887435047326
+│○ !nomorhoki 85882135288
 │○ !artimimpi [query]
 │○ !artinama [query]
 │○ !ramaljodoh
@@ -1719,6 +1719,8 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╭─❒ 「 TqTo 」 
 │○ My God
 │○ My Parents
+│○ Hikachuu :3
+│○ Fadilarwt
 │○ Fatih A.
 │○ Ferdi
 │○ DikaArdnt
@@ -1743,7 +1745,7 @@ exports.rules = (prefix) => {
 ➡️ Puede verse afectado por la red, la señal, prohibido por Whatsapp y algunas razones.
 
 🗯️ ¿Dónde puedo obtener el script de este bot?
-➡️ Puede obtener este script en YouTube ZEEONE OFC
+➡️ Puede obtener este script en ig : sky4you
 
 🗯️ ¿Puedo agregar al grupo?
 ➡️ Para eso depende del propietario del bot.
@@ -1776,6 +1778,7 @@ return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
 Recode : https://s.id/YouTube-Zeeoneofc
+Recode2 : https://instagram.com/sky4you
 `
 }
 exports.tos = (ownernomer) => {
@@ -2442,6 +2445,8 @@ exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
 │○ My God
 │○ My Parents
+│○ Hikachuu :3
+│○ Fadilarwt
 │○ Fatih A.
 │○ Ferdi
 │○ DikaArdnt
@@ -2456,7 +2461,7 @@ exports.tqto = () =>{
 
 exports.primbonmenu = (prefix) =>{
 	return`╭─❒ 「 Primbon 」
-│○ !nomorhoki 887435047326
+│○ !nomorhoki 85882135288
 │○ !artimimpi [query]
 │○ !artinama [query]
 │○ !ramaljodoh
